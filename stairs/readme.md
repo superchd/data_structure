@@ -8,7 +8,8 @@
 
 > ## 나의 풀이
 >
-> <img src="../images/2022-09-03-stairs/스크린샷 2022-09-03 오후 12.30.43.png" alt="스크린샷 2022-09-03 오후 12.30.43" style="zoom: 50%;" />
+> <img width="450" alt="스크린샷 2022-09-03 오후 12 34 50" src="https://user-images.githubusercontent.com/63406434/188254301-cc0ae2df-8d7f-4a94-8383-f1d5739901da.png">
+
 >
 > * vector<vector<int>> grid자료구조를 제작할것이다.
 > * grid의 각 인덱스에 담겨있는 정보는 그 인덱스에 해당하는 x좌표의 경계위 또는 경계안의 점들의 배열
